@@ -1,0 +1,2 @@
+git pull origin main  ----- to get updated file from remote space origin. 
+git push origin main  ------to push local changes to remote space origin. 
